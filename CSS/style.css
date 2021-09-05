@@ -1,0 +1,33 @@
+*{
+    background-color: rgb(176, 255, 176);
+}
+body{
+    background-color: rgb(176, 255, 176);
+}
+
+.titulo h1{
+    color: red;
+    font-family: sans-serif;
+    font-size: 300%;
+}
+
+.descripcion{
+    color: red;
+    font-family: sans-serif;
+}
+
+.contenido{
+    color: red;
+    font-family: sans-serif;
+}
+
+.cuerpo_medio p{
+    color: blue;
+}
+
+.parte_final p {
+    color: blue;
+}
+.parte_final li {
+    color: blue;
+}
